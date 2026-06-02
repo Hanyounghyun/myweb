@@ -61,9 +61,9 @@ const products = {
     material: '14K Gold Plated Brass',
     process: 'CAD Design → Lost Wax Casting'
   },
-  insook: {
+  younghyun: {
     tag: 'Signature Collection',
-    name: 'INSOOK Series',
+    name: 'younghyun Series',
     desc: '디자이너의 이름을 담은 시그니처 컬렉션. 각 피스마다 독창적인 형태 언어를 담아, 착용자만의 이야기를 완성하는 주얼리입니다.',
     material: 'Mixed — Gold, Silver, Gemstones',
     process: 'Full In-house Design & Production'

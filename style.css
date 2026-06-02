@@ -516,14 +516,14 @@ ul {
 .product-image--soonjo::before { left: calc(50% - 40px); }
 .product-image--soonjo::after { left: calc(50% + 10px); }
 
-.product-image--insook {
+.product-image--younghyun {
   background:
     radial-gradient(circle at 50% 50%, rgba(201, 169, 110, 0.25) 0%, transparent 55%),
     linear-gradient(160deg, #2a2520 0%, #1a1814 100%);
 }
 
-.product-image--insook::after {
-  content: 'I';
+.product-image--younghyun::after {
+  content: 'Y';
   position: absolute;
   top: 50%;
   left: 50%;
